@@ -1,0 +1,24 @@
+{
+  "name": "jankenpo-nodejs-nexe",
+  "version": "1.0.0",
+  "description": "The code was the same of the JavaScript/Node.JS version because I don't want to exercise the programming logic or syntax of Node.JS/Javascript. I wanted to test export a `.exe` file with Nexe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andreterceiro/jankenpo-nodejs-nexe.git"
+  },
+  "author": "André de Paula Terceiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreterceiro/jankenpo-nodejs-nexe/issues"
+  },
+  "homepage": "https://github.com/andreterceiro/jankenpo-nodejs-nexe#readme",
+  "comments": {
+    "global dependencies": {
+      "nexe": "npm install -g nexe"  
+    }
+  }
+}
